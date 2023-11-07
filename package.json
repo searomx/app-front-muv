@@ -1,0 +1,47 @@
+{
+  "name": "muv-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.1.13",
+    "@types/papaparse": "^5.3.10",
+    "csv": "^6.3.5",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.6.4",
+    "framer-motion": "^10.16.4",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.1.0",
+    "next": "13.5.5",
+    "papaparse": "^5.4.1",
+    "path": "^0.12.7",
+    "react": "^18",
+    "react-data-table-component": "^7.5.4",
+    "react-dom": "^18",
+    "react-table": "^7.8.0",
+    "react-table-sticky": "^1.1.3",
+    "styled-components": "^6.1.0",
+    "tw-elements": "^1.0.0"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
+    "@iconify/react": "^4.1.1",
+    "@types/node": "^20.8.7",
+    "@types/react": "^18.2.29",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.6",
+    "sass": "^1.69.4",
+    "tailwindcss": "^3",
+    "typescript": "^5"
+  }
+}
